@@ -16,3 +16,10 @@ void jacob()
 	printf("4");
 
 }
+
+void pratik()
+{
+	printf("5");
+
+}
+
